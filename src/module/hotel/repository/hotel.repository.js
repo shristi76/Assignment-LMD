@@ -4,7 +4,7 @@ const HotelAmenity = require("../models/hotelAmenity.model");
 const Amenity = require("../models/amenity.model");
 const HotelPolicy = require("../models/hotelPolicy.model");
 const HotelPrice = require("../models/hotelPrice.model");
-const Review = require("../models/review.model");
+// const Review = require("../models/review.model");
 
 /**
  * Get hotel basic information
